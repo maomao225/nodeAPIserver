@@ -1,0 +1,1 @@
+cd /application/ && node bootup.js
